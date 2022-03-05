@@ -6,6 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println(BmiCalculator.cal(60,160));
+        System.out.println(Arrays.toString(LottoGenerator.generateLotto(6)));
+
 
         //        System.out.println("한글테스트");
 //
