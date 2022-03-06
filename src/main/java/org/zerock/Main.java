@@ -8,6 +8,13 @@ public class Main {
         System.out.println(BmiCalculator.cal(60,160));
         System.out.println(Arrays.toString(LottoGenerator.generateLotto(6)));
 
+        Box box = new Box(4);
+
+        System.out.println(box.getOne());
+        System.out.println(box.getOne());
+        System.out.println(box.getOne());
+        System.out.println(box.getOne());
+
 
         //        System.out.println("한글테스트");
 //
