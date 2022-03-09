@@ -1,4 +1,4 @@
-package org.zerock;
+package org.zerock.test;
 
 public class BmiCalculator {
 
